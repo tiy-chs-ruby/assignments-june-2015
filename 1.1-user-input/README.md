@@ -50,12 +50,14 @@ After completing this assignment, you will be able to create programs that
 * This program should prompt for and accept
   * someone's name
   * someone's ideal legal situation
+
     1. "I am law abiding!"
     1. "I make sure others obey the law."
     1. "I live outside the law."
     1. "Questionable."
 
   and return one of these:
+
   1. `The Empire thanks you for your aquiescence, citizen __name__.`
   1. `__name__, aren't you a little short for a Storm Trooper?`
   1. `Hey, __name__! Who's scruffy-lookin'?`
