@@ -1,4 +1,4 @@
-# Challenge 1.2 - Countries
+# Countries Challenge
 
 ## Objective
 Write a Ruby program that does that
