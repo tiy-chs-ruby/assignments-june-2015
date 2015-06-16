@@ -42,7 +42,7 @@ After completing this assignment, you will be able to create programs that
 * [An issue in the class repo](https://github.com/tiy-chs-ruby/assignments-june-2015) titled `1.1 - User Input -- YOUR NAME` with checkboxes as below under _Requirements_.
 * A repository named `1.1-User-Input` containing at least an `assignment.rb` file
 * A Pull Request (PR) in your `1.1-User-Input` repo:
-  * _from_ branch `develop`
+  * _from_ branch `dev`
   * _into_ branch master
 * A comment on your original Issue with a link to your PR
 
@@ -67,7 +67,7 @@ After completing this assignment, you will be able to create programs that
 ### Tasks
 - [ ] Create a new Issue with these tasks!
 - [ ] Use the Github web interface to create a repository called `1.1-User-Input`
-- [ ] Use the Github web interface to create a branch called on `1.1-User-Input` called `<initials>-develop`
+- [ ] Use the Github web interface to create a branch on `1.1-User-Input` called `<initials>-develop`
 - [ ] In Github, open a PR from `<initials>-develop` into `master`
 - [ ] Create the Quick Star Wars Character test
   - [ ] Checkpoint: Create `assignment.rb`
