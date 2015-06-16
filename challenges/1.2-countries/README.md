@@ -9,6 +9,8 @@ Write a Ruby program that does that
 
 An example of what should be returned is
 ```
+There are __number_of_countries__ countries accounted for here. They are as follows:
+
 AZ - Azerbaijan
 MK - Macedonia, the Former Yugoslav Republic of
 ```
