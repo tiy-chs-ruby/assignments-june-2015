@@ -62,6 +62,6 @@ and create a new file called `updated_countries.txt` that contains the newly for
   - [ ] Complete: Pushed `assignment.rb`
 
 ## Additional Resources
-[Ruby IO Docs](http://ruby-doc.org/core-2.2.2/IO.html)
-[Ruby File Docs](http://ruby-doc.org/core-2.2.2/File.html)
-[Ruby Array Docs](http://ruby-doc.org/core-2.2.2/Enumerable.html)
+* [Ruby IO Docs](http://ruby-doc.org/core-2.2.2/IO.html)
+* [Ruby File Docs](http://ruby-doc.org/core-2.2.2/File.html)
+* [Ruby Array Docs](http://ruby-doc.org/core-2.2.2/Enumerable.html)
