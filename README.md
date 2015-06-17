@@ -20,10 +20,10 @@ always ensure that you follow these steps.
 * Create a new repository for the assignment
     * Name the repository according to the assignment, e.g.
       `1.1-personal-website`
-    * Create a branch in that repository named `<initials>-develop`
+    * Create a branch in that repository named `dev`
     * Ensure that you commit _all_ your work into that branch _only_
     * Push that branch to Github regularly to show progress
-* Open a Pull Request (PR) from your `<initials>-develop` branch to `master`
+* Open a Pull Request (PR) from your `dev` branch to `master`
     * [Add a link to your Issue](https://help.github.com/articles/writing-on-github/#references)
       in a comment on your Pull Request
     * Note that the PR will update automatically as you push more work to the branch
