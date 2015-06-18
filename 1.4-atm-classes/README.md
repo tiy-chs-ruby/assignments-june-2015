@@ -78,6 +78,7 @@ Running the program should
           - [ ] if all is well, tell them to please take their money and then tell them their new balance
     - [ ] Complete: Pushed `assignment.rb`
     - [ ] HARD MODE: Separate your class(es) in to different files of the same name as the class and require them in to your main `assignment.rb` file
+    - [ ] HARD MODE: Clear out the CSV at the end of the program and rewrite it with the new balance (make sure all the unchanged ones are still there)
 
 ## Additional Resources
 * [Ruby CSV](http://www.rubydoc.info/stdlib/csv/CSV)
