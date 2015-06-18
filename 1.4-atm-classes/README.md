@@ -9,6 +9,7 @@ Our ATM code is looking a bit more compartmentalized, but we can do better. In o
 
 ### Learning Objectives
 After completing this assignment, you should understand
+* how to parse a CSV (Comma Separated Values) file
 * how to create a `class`
 * how to instantiate a `class`
 * how to apply properties to a `class` (there are _many_ ways)
@@ -18,6 +19,7 @@ After completing this assignment, you should understand
 
 ### Performance Objectives
 After completing this assignment, you will be able to create programs that
+* parse CSVs
 * model data
 * apply data modeling to problem solving
 
@@ -33,6 +35,7 @@ After completing this assignment, you will be able to create programs that
 
 ### Requirements
 Running the program should
+* create an array of `User` class instances based off of the provided CSV
 * prompt me for my name
   * If I enter nothing, then it should continue to prompt me for my name (bonus for a witty message)
 * prompt me for what I would like to do
@@ -57,23 +60,24 @@ Running the program should
 - [ ] Write an ATM program
   - [ ] Checkpoint: Create `assignment.rb`
   - [ ] Checkpoint: Use [what we did in class](http://rpearce.gitbooks.io/ruby-june-2015/content/notes/1-4.html) and [what we did at the end of yesterday](http://rpearce.gitbooks.io/ruby-june-2015/content/notes/1-3.html) as a reference
-  - [ ] prompt me for my name
-    - [ ] If I enter nothing, then it should continue to prompt me for my name (bonus for a witty message)
-  - [ ] prompt me for what I would like to do
-    - [ ] 1. Check my balance, 2. Withdraw Funds or 3. Cancel
-    - [ ] if I enter a number that is not within this list, it needs to continue to prompt me to enter either 1, 2 or 3 (this should not be hardcoded--use `.count` and a Range to programmatically figure out what numbers are acceptable)
-    - [ ] Check Balance
-      - [ ] print to the console `"Your balance is __$$$__"`
-    - [ ] Cancel
-      - [ ] print to the console `"Thank you and please come again."`
-    - [ ] Withdraw Funds
-      - [ ] prompt for how much money to withdraw
-        - [ ] if the amount is greater than the amount of money in the machine, print that the machine doesn't have that much money
-        - [ ] if the amount is greater than the amount of money the user has available, print that the user has insufficient funds
-        - [ ] if all is well, tell them to please take their money and then tell them their new balance
-  - [ ] Checkpoint: Use at least 1 `class`
-  - [ ] Checkpoint: Use at least 1 public `class` _instance_ method (you will likely need more)
-  - [ ] Complete: Pushed `assignment.rb`
+  - [ ] Checkpoint: Parse the provided CSV in to `User` class instances
+  - [ ] Checkpoint: User Flow
+    - [ ] prompt me for my name
+      - [ ] If I enter nothing, then it should continue to prompt me for my name (bonus for a witty message)
+    - [ ] prompt me for what I would like to do
+      - [ ] 1. Check my balance, 2. Withdraw Funds or 3. Cancel
+      - [ ] if I enter a number that is not within this list, it needs to continue to prompt me to enter either 1, 2 or 3 (this should not be hardcoded--use `.count` and a Range to programmatically figure out what numbers are acceptable)
+      - [ ] Check Balance
+        - [ ] print to the console `"Your balance is __$$$__"`
+      - [ ] Cancel
+        - [ ] print to the console `"Thank you and please come again."`
+      - [ ] Withdraw Funds
+        - [ ] prompt for how much money to withdraw
+          - [ ] if the amount is greater than the amount of money in the machine, print that the machine doesn't have that much money
+          - [ ] if the amount is greater than the amount of money the user has available, print that the user has insufficient funds
+          - [ ] if all is well, tell them to please take their money and then tell them their new balance
+    - [ ] Complete: Pushed `assignment.rb`
+    - [ ] HARD MODE: Separate your class(es) in to different files of the same name as the class and require them in to your main `assignment.rb` file
 
 ## Additional Resources
 * [Ruby Class Docs](http://ruby-doc.org/core-2.2.2/Class.html)
