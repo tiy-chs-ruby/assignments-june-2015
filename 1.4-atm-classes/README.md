@@ -80,6 +80,7 @@ Running the program should
     - [ ] HARD MODE: Separate your class(es) in to different files of the same name as the class and require them in to your main `assignment.rb` file
 
 ## Additional Resources
+* [Ruby CSV](http://www.rubydoc.info/stdlib/csv/CSV)
 * [Ruby Class Docs](http://ruby-doc.org/core-2.2.2/Class.html)
 * [Ruby Hash Docs](http://ruby-doc.org/core-2.2.2/Hash.html)
 * [Ruby Method Docs](http://ruby-doc.org/core-2.2.2/Method.html)
