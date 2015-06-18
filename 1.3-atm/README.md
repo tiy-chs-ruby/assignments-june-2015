@@ -52,8 +52,8 @@ Running the program should
 
 ### Tasks
 - [ ] Create a new Issue with these tasks!
-- [ ] Use the Github web interface to create a repository called `1.2-Countries`
-- [ ] Use the Github web interface to create a branch on `1.2-Countries` called `dev`
+- [ ] Create a repository called `1.3-ATM`
+- [ ] Create a branch on `1.3-ATM` called `dev`
 - [ ] In Github, open a PR from `dev` into `master`
 - [ ] Write an ATM program
   - [ ] Checkpoint: Create `assignment.rb`
