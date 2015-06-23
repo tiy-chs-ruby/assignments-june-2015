@@ -3,7 +3,7 @@
 ## Description
 Referencing [our class notes from today](http://rpearce.gitbooks.io/ruby-june-2015/content/notes/2-2.html), create dinosaur `class`es for difference classifications of dinosaurs. 
 
-![]()
+![](http://ak-hdl.buzzfed.com/static/2014-05/enhanced/webdr06/22/9/anigif_enhanced-buzz-23597-1400765555-7.gif)
 
 ## Objectives
 
