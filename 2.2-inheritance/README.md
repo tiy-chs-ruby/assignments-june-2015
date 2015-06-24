@@ -1,7 +1,7 @@
 # Data Modeling
 
 ## Description
-Referencing [our class notes from today](http://rpearce.gitbooks.io/ruby-june-2015/content/notes/2-2.html), create dinosaur `class`es for difference classifications of dinosaurs. 
+Referencing [our class notes from today](http://rpearce.gitbooks.io/ruby-june-2015/content/notes/2-2.html), create dinosaur `class`es for difference classifications of dinosaurs.
 
 ![](http://ak-hdl.buzzfed.com/static/2014-05/enhanced/webdr06/22/9/anigif_enhanced-buzz-23597-1400765555-7.gif)
 
@@ -35,8 +35,8 @@ You should utilize [inheritance](http://rubylearning.com/satishtalim/ruby_inheri
 
 ### Tasks
 - [ ] Create a new Issue with these tasks!
-- [ ] Create a repository called `2.1-Data-Modeling`
-- [ ] Create a branch on `2.1-Data-Modeling` called `dev`
+- [ ] Create a repository called `2.2-Inheritance`
+- [ ] Create a branch on `2.2-Inheritance` called `dev`
 - [ ] In Github, open a PR from `dev` into `master`
 - [ ] Write an ATM program
   - [ ] Checkpoint: Create `assignment.rb`
