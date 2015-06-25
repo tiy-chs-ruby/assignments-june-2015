@@ -1,4 +1,4 @@
-# Data Modeling
+# Testing
 
 ## Description
 In order to make sure your application does what you expect and save you heaps and heaps of time, we're going to need to automate a lot of that previously manual testing.
@@ -40,7 +40,7 @@ Use [this ATM code](https://github.com/andrewtpoe/1.4-ATM-Classes) if you want a
 - [ ] Create a repository called `2.3-Testing`
 - [ ] Create a branch on `2.3-Testing` called `dev`
 - [ ] In Github, open a PR from `dev` into `master`
-- [ ] Write an ATM program
+- [ ] Test an ATM program
   - [ ] Checkpoint: Create a `tests.rb` file (or one for each class...)
   - [ ] Checkpoint: Set up the file to run MiniTest specs from the command line
   - [ ] Checkpoint: `require` your ATM application and/or any other files you might want to test. You can do this in 1 file or multiple test files (and you can even have 1 test file that `require`s all the others and you just run that one!)
