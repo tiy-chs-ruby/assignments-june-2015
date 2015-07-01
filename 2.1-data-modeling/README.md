@@ -31,7 +31,7 @@ After completing this assignment, you should understand
 There must be a `README.md` file that contains models as headings with their properties listed as bullet points underneath based on the following text:
 
 > I have an idea for an app.
-> 
+>
 > We are changing the way people manage their pictures! Someone should be able to sign in, upload a bunch of pictures and then be able to add information to each one like where it was taken, when it was taken and any additional notes. You know what? They should also be able to tag their family members. That sounds good.
 >
 > Each member of our amazing service should be able to see all of their pictures, and so should their family. There should be some sort of grouping that groups people together and allows them to see and comment on all of their group's photos.
