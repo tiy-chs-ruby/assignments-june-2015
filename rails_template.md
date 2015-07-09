@@ -1,11 +1,10 @@
 # TITLE
 
 ## Description
-
 ![]()
 
 ## Learning Objectives
-After completing this assignment, you should understand
+After completing this assignment, you should understand how to
 *
 
 ## Details
@@ -19,14 +18,14 @@ After completing this assignment, you should understand
 * A comment on your original Issue with a link to your PR
 
 ### Requirements
-*
 
 ### Tasks
 - [ ] Create a new Issue with these tasks!
-- [ ] Create a repository called `WEEK.DAY-TITLE`
-- [ ] Create a branch on `WEEK.DAY-TITLE` called `dev`
+- [ ] Create a Rails project & initialize it with git
+- [ ] Commit the newly committed, unedited Rails project to your `master` branch
+- [ ] Create a branch on `TITLE-WEEK.DAY` called `dev`
 - [ ] In Github, open a PR from `dev` into `master`
-- [ ] Create the website
+- [ ] TASK
   - [ ] Checkpoint:
   - [ ] Complete: pushed all relevant code
 
