@@ -15,9 +15,9 @@ After completing this assignment, you should understand how to
 ## Details
 
 ### Deliverables
-* [An issue in the class repo](https://github.com/tiy-chs-ruby/assignments-june-2015) titled `WEEK.DAY - TITLE -- YOUR NAME` with checkboxes as below under _Requirements_.
-* A repository named `WEEK.DAY-TITLE` containing at least a `README.md` file
-* A Pull Request (PR) in your `WEEK.DAY-TITLE` repo:
+* [An issue in the class repo](https://github.com/tiy-chs-ruby/assignments-june-2015) titled `4.4 - CRUD -- YOUR NAME` with checkboxes as below under _Requirements_.
+* A repository named `4.4-CRUD` containing at least a `README.md` file
+* A Pull Request (PR) in your `4.4-CRUD` repo:
   * _from_ branch `dev`
   * _into_ branch master
 * A comment on your original Issue with a link to your PR
@@ -37,7 +37,7 @@ After completing this assignment, you should understand how to
 - [ ] Create a new Issue with these tasks!
 - [ ] Create a Rails project & initialize it with git
 - [ ] Commit the newly committed, unedited Rails project to your `master` branch
-- [ ] Create a branch on `TITLE-WEEK.DAY` called `dev`
+- [ ] Create a branch on `CRUD-4.4` called `dev`
 - [ ] In Github, open a PR from `dev` into `master`
 - [ ] Create a CRUD app!
   - [ ] Checkpoint: created the `Album` model
