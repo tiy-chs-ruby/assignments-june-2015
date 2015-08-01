@@ -5,7 +5,7 @@
 ![]()
 
 ## Learning Objectives
-After completing this assignment, you should understand
+After completing this assignment, you should understand how to
 *
 
 ## Details
