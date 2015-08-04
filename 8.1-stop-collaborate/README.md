@@ -18,25 +18,9 @@ After completing this assignment, you should understand how to
 * Collaborate on GitHub projects with others
 * Be able to set up browserify with React in a Rails app
 
-## Details
-
-### Deliverables
-* [An issue in the class repo](https://github.com/tiy-chs-ruby/assignments-june-2015) titled `8.1 - Collaborate -- YOUR NAME` with checkboxes as below under _Requirements_.
-* A repository named `8.1-Collaborate` containing at least a `README.md` file
-* A Pull Request (PR) in your `8.1-Collaborate` repo:
-  * _from_ branch `dev`
-  * _into_ branch master
-* A comment on your original Issue with a link to your PR
-
-### Requirements
-
-### Tasks
-- [ ] Create a new Issue with these tasks!
-- [ ] Create a Rails project & initialize it with git
-- [ ] Commit the newly committed, unedited Rails project to your `master` branch
-- [ ] Create a branch on `Collaborate-8.1` called `dev`
-- [ ] In Github, open a PR from `dev` into `master`
-- [ ] Set up the organization & set up the app
+## Tasks
+- [ ] Create [an issue in the class repo](https://github.com/tiy-chs-ruby/assignments-june-2015) titled `Collaboration -- YOUR TEAM NAME` with checkboxes for these tasks!
+- [ ] Create a GitHub organization for you and your team & set up the app
   - [ ] Checkpoint: Created organization & repository & forked it to your usernames
   - [ ] Checkpoint: Set up the app
   - [ ] Checkpoint: Successfully merged PRs to the upstream branch and fetched & rebased them back down to your fork's master branch from upstream
